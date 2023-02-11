@@ -1,0 +1,922 @@
+
+--> System
+
+     --> Log
+
+2020-08-13 13:40:40.856
+INFO: Log started
+
+
+     <-- Log
+
+     --> ResourceLoader
+
+2020-08-13 13:40:40.856
+LOADED: loading_icon.png 1%
+
+
+     <-- ResourceLoader
+
+     --> Config
+
+2020-08-13 13:40:40.856
+LOADED: Config
+
+
+     <-- Config
+
+     --> ResourceLoader
+
+2020-08-13 13:40:40.856
+LOADED: window_icon.png 2%
+
+
+2020-08-13 13:40:40.856
+LOADED: view_icon_disabled.png 3%
+
+
+2020-08-13 13:40:40.856
+LOADED: edit_icon_disabled.png 4%
+
+
+2020-08-13 13:40:40.856
+LOADED: stats_icon_disabled.png 6%
+
+
+2020-08-13 13:40:40.856
+LOADED: opt_icon_disabled.png 7%
+
+
+2020-08-13 13:40:40.856
+LOADED: save_icon_disabled.png 8%
+
+
+2020-08-13 13:40:40.856
+LOADED: delete_icon_disabled.png 9%
+
+
+2020-08-13 13:40:40.856
+LOADED: front_page_icon_disabled.png 10%
+
+
+2020-08-13 13:40:40.856
+LOADED: back_page_icon_disabled.png 12%
+
+
+2020-08-13 13:40:40.856
+LOADED: bold_icon_disabled.png 13%
+
+
+2020-08-13 13:40:40.856
+LOADED: italic_icon_disabled.png 14%
+
+
+2020-08-13 13:40:40.856
+LOADED: underlined_icon_disabled.png 15%
+
+
+2020-08-13 13:40:40.856
+LOADED: left_icon_disabled.png 16%
+
+
+2020-08-13 13:40:40.856
+LOADED: centered_icon_disabled.png 18%
+
+
+2020-08-13 13:40:40.856
+LOADED: right_icon_disabled.png 19%
+
+
+2020-08-13 13:40:40.856
+LOADED: justified_icon_disabled.png 20%
+
+
+2020-08-13 13:40:40.856
+LOADED: plus_icon_disabled.png 21%
+
+
+2020-08-13 13:40:40.856
+LOADED: minus_icon_disabled.png 22%
+
+
+2020-08-13 13:40:40.856
+LOADED: last_icon_disabled.png 24%
+
+
+2020-08-13 13:40:40.856
+LOADED: next_icon_disabled.png 25%
+
+
+2020-08-13 13:40:40.856
+LOADED: view_icon.png 26%
+
+
+2020-08-13 13:40:40.856
+LOADED: view_icon_selected.png 27%
+
+
+2020-08-13 13:40:40.856
+LOADED: view_icon_pressed.png 28%
+
+
+2020-08-13 13:40:40.856
+LOADED: edit_icon.png 30%
+
+
+2020-08-13 13:40:40.856
+LOADED: edit_icon_selected.png 31%
+
+
+2020-08-13 13:40:40.856
+LOADED: edit_icon_pressed.png 32%
+
+
+2020-08-13 13:40:40.856
+LOADED: stats_icon.png 33%
+
+
+2020-08-13 13:40:40.856
+LOADED: stats_icon_selected.png 34%
+
+
+2020-08-13 13:40:40.856
+LOADED: stats_icon_pressed.png 36%
+
+
+2020-08-13 13:40:40.856
+LOADED: opt_icon.png 37%
+
+
+2020-08-13 13:40:40.856
+LOADED: opt_icon_selected.png 38%
+
+
+2020-08-13 13:40:40.856
+LOADED: opt_icon_pressed.png 39%
+
+
+2020-08-13 13:40:40.856
+LOADED: save_icon.png 40%
+
+
+2020-08-13 13:40:40.856
+LOADED: save_icon_selected.png 42%
+
+
+2020-08-13 13:40:40.856
+LOADED: save_icon_pressed.png 43%
+
+
+2020-08-13 13:40:40.856
+LOADED: delete_icon.png 44%
+
+
+2020-08-13 13:40:40.856
+LOADED: delete_icon_selected.png 45%
+
+
+2020-08-13 13:40:40.856
+LOADED: delete_icon_pressed.png 46%
+
+
+2020-08-13 13:40:40.856
+LOADED: front_page_icon.png 48%
+
+
+2020-08-13 13:40:40.856
+LOADED: front_page_icon_selected.png 49%
+
+
+2020-08-13 13:40:40.856
+LOADED: front_page_icon_pressed.png 50%
+
+
+2020-08-13 13:40:40.856
+LOADED: back_page_icon.png 51%
+
+
+2020-08-13 13:40:40.856
+LOADED: back_page_icon_selected.png 53%
+
+
+2020-08-13 13:40:40.856
+LOADED: back_page_icon_pressed.png 54%
+
+
+2020-08-13 13:40:40.856
+LOADED: bold_icon.png 55%
+
+
+2020-08-13 13:40:40.856
+LOADED: bold_icon_selected.png 56%
+
+
+2020-08-13 13:40:40.856
+LOADED: bold_icon_pressed.png 57%
+
+
+2020-08-13 13:40:40.856
+LOADED: italic_icon.png 59%
+
+
+2020-08-13 13:40:40.856
+LOADED: italic_icon_selected.png 60%
+
+
+2020-08-13 13:40:40.856
+LOADED: italic_icon_pressed.png 61%
+
+
+2020-08-13 13:40:40.856
+LOADED: underlined_icon.png 62%
+
+
+2020-08-13 13:40:40.856
+LOADED: underlined_icon_selected.png 63%
+
+
+2020-08-13 13:40:40.856
+LOADED: underlined_icon_pressed.png 65%
+
+
+2020-08-13 13:40:40.856
+LOADED: left_icon.png 66%
+
+
+2020-08-13 13:40:40.856
+LOADED: left_icon_selected.png 67%
+
+
+2020-08-13 13:40:40.856
+LOADED: left_icon_pressed.png 68%
+
+
+2020-08-13 13:40:40.856
+LOADED: centered_icon.png 69%
+
+
+2020-08-13 13:40:40.856
+LOADED: centered_icon_selected.png 71%
+
+
+2020-08-13 13:40:40.856
+LOADED: centered_icon_pressed.png 72%
+
+
+2020-08-13 13:40:40.856
+LOADED: right_icon.png 73%
+
+
+2020-08-13 13:40:40.856
+LOADED: right_icon_selected.png 74%
+
+
+2020-08-13 13:40:40.856
+LOADED: right_icon_pressed.png 75%
+
+
+2020-08-13 13:40:40.856
+LOADED: justified_icon.png 77%
+
+
+2020-08-13 13:40:40.856
+LOADED: justified_icon_selected.png 78%
+
+
+2020-08-13 13:40:40.856
+LOADED: justified_icon_pressed.png 79%
+
+
+2020-08-13 13:40:40.856
+LOADED: plus_icon.png 80%
+
+
+2020-08-13 13:40:40.856
+LOADED: plus_icon_selected.png 81%
+
+
+2020-08-13 13:40:40.856
+LOADED: plus_icon_pressed.png 83%
+
+
+2020-08-13 13:40:40.856
+LOADED: minus_icon.png 84%
+
+
+2020-08-13 13:40:40.856
+LOADED: minus_icon_selected.png 85%
+
+
+2020-08-13 13:40:40.856
+LOADED: minus_icon_pressed.png 86%
+
+
+2020-08-13 13:40:40.856
+LOADED: last_icon.png 87%
+
+
+2020-08-13 13:40:40.856
+LOADED: last_icon_selected.png 89%
+
+
+2020-08-13 13:40:40.856
+LOADED: last_icon_pressed.png 90%
+
+
+2020-08-13 13:40:40.856
+LOADED: next_icon.png 91%
+
+
+2020-08-13 13:40:40.856
+LOADED: next_icon_selected.png 92%
+
+
+2020-08-13 13:40:40.856
+LOADED: next_icon_pressed.png 93%
+
+
+     <-- ResourceLoader
+
+2020-08-13 13:40:40.856
+LOADED: Window 95%
+
+
+2020-08-13 13:40:40.856
+LOADED: ViewPanel 96%
+
+
+2020-08-13 13:40:40.856
+LOADED: EditPanel 97%
+
+
+2020-08-13 13:40:40.856
+LOADED: StatsPanel 98%
+
+
+2020-08-13 13:40:40.856
+LOADED: OptPanel 100%
+
+
+     --> AreaHandler
+
+2020-08-13 13:40:40.856
+LOADED: permissible (adj.) 101%
+
+
+2020-08-13 13:40:40.856
+LOADED: Voc. 01: 1/39 card(s)
+
+
+2020-08-13 13:40:40.856
+LOADED: regardless (adj.) 102%
+
+
+2020-08-13 13:40:40.856
+LOADED: Voc. 01: 2/39 card(s)
+
+
+2020-08-13 13:40:40.856
+LOADED: assign (verb) 103%
+
+
+2020-08-13 13:40:40.856
+LOADED: Voc. 01: 3/39 card(s)
+
+
+2020-08-13 13:40:40.856
+LOADED: particular (adj.) 104%
+
+
+2020-08-13 13:40:40.856
+LOADED: Voc. 01: 4/39 card(s)
+
+
+2020-08-13 13:40:40.856
+LOADED: respective (adj.) 106%
+
+
+2020-08-13 13:40:40.856
+LOADED: Voc. 01: 5/39 card(s)
+
+
+2020-08-13 13:40:40.856
+LOADED: Assignment (noun) 107%
+
+
+2020-08-13 13:40:40.856
+LOADED: Voc. 01: 6/39 card(s)
+
+
+2020-08-13 13:40:40.856
+LOADED: denote (verb) 108%
+
+
+2020-08-13 13:40:40.856
+LOADED: Voc. 01: 7/39 card(s)
+
+
+2020-08-13 13:40:40.856
+LOADED: facilitate (verb) 109%
+
+
+2020-08-13 13:40:40.856
+LOADED: Voc. 01: 8/39 card(s)
+
+
+2020-08-13 13:40:40.856
+LOADED: designate (verb) 110%
+
+
+2020-08-13 13:40:40.856
+LOADED: Voc. 01: 9/39 card(s)
+
+
+2020-08-13 13:40:40.856
+LOADED: Designation (noun) 112%
+
+
+2020-08-13 13:40:40.856
+LOADED: Voc. 01: 10/39 card(s)
+
+
+2020-08-13 13:40:40.856
+LOADED: diverse (adj.) 113%
+
+
+2020-08-13 13:40:40.856
+LOADED: Voc. 01: 11/39 card(s)
+
+
+2020-08-13 13:40:40.856
+LOADED: miscellaneous (adj.) 114%
+
+
+2020-08-13 13:40:40.856
+LOADED: Voc. 01: 12/39 card(s)
+
+
+2020-08-13 13:40:40.856
+LOADED: accord (verb) 115%
+
+
+2020-08-13 13:40:40.856
+LOADED: Voc. 01: 13/39 card(s)
+
+
+2020-08-13 13:40:40.856
+LOADED: accordance (noun) 116%
+
+
+2020-08-13 13:40:40.856
+LOADED: Voc. 01: 14/39 card(s)
+
+
+2020-08-13 13:40:40.856
+LOADED: accordance with (adj.) 118%
+
+
+2020-08-13 13:40:40.856
+LOADED: Voc. 01: 15/39 card(s)
+
+
+2020-08-13 13:40:40.856
+LOADED: regard (verb) 119%
+
+
+2020-08-13 13:40:40.856
+LOADED: Voc. 01: 16/39 card(s)
+
+
+2020-08-13 13:40:40.856
+LOADED: regard (noun) 120%
+
+
+2020-08-13 13:40:40.856
+LOADED: Voc. 01: 17/39 card(s)
+
+
+2020-08-13 13:40:40.856
+LOADED: gaze (verb) 121%
+
+
+2020-08-13 13:40:40.856
+LOADED: Voc. 01: 18/39 card(s)
+
+
+2020-08-13 13:40:40.856
+LOADED: assume (verb) 122%
+
+
+2020-08-13 13:40:40.856
+LOADED: Voc. 01: 19/39 card(s)
+
+
+2020-08-13 13:40:40.856
+LOADED: Assumption (noun) 124%
+
+
+2020-08-13 13:40:40.856
+LOADED: Voc. 01: 20/39 card(s)
+
+
+2020-08-13 13:40:40.856
+LOADED: dispense (verb) 125%
+
+
+2020-08-13 13:40:40.856
+LOADED: Voc. 01: 21/39 card(s)
+
+
+2020-08-13 13:40:40.856
+LOADED: deliberate (adj.) 126%
+
+
+2020-08-13 13:40:40.856
+LOADED: Voc. 01: 22/39 card(s)
+
+
+2020-08-13 13:40:40.856
+LOADED: surge (verb) 127%
+
+
+2020-08-13 13:40:40.856
+LOADED: Voc. 01: 23/39 card(s)
+
+
+2020-08-13 13:40:40.856
+LOADED: fallacy (noun) 128%
+
+
+2020-08-13 13:40:40.856
+LOADED: Voc. 01: 24/39 card(s)
+
+
+2020-08-13 13:40:40.856
+LOADED: supply (verb) 130%
+
+
+2020-08-13 13:40:40.856
+LOADED: Voc. 01: 25/39 card(s)
+
+
+2020-08-13 13:40:40.856
+LOADED: suplly (noun) 131%
+
+
+2020-08-13 13:40:40.856
+LOADED: Voc. 01: 26/39 card(s)
+
+
+2020-08-13 13:40:40.856
+LOADED: term (verb) 132%
+
+
+2020-08-13 13:40:40.856
+LOADED: Voc. 01: 27/39 card(s)
+
+
+2020-08-13 13:40:40.856
+LOADED: term (noun) 133%
+
+
+2020-08-13 13:40:40.856
+LOADED: Voc. 01: 28/39 card(s)
+
+
+2020-08-13 13:40:40.856
+LOADED: favorable (adj.) 134%
+
+
+2020-08-13 13:40:40.856
+LOADED: Voc. 01: 29/39 card(s)
+
+
+2020-08-13 13:40:40.856
+LOADED: torque (noun) 136%
+
+
+2020-08-13 13:40:40.856
+LOADED: Voc. 01: 30/39 card(s)
+
+
+2020-08-13 13:40:40.856
+LOADED: calamity (noun) 137%
+
+
+2020-08-13 13:40:40.856
+LOADED: Voc. 01: 31/39 card(s)
+
+
+2020-08-13 13:40:40.856
+LOADED: famine (noun) 138%
+
+
+2020-08-13 13:40:40.856
+LOADED: Voc. 01: 32/39 card(s)
+
+
+2020-08-13 13:40:40.856
+LOADED: nurture (verb) 139%
+
+
+2020-08-13 13:40:40.856
+LOADED: Voc. 01: 33/39 card(s)
+
+
+2020-08-13 13:40:40.856
+LOADED: constituent (adj.) 140%
+
+
+2020-08-13 13:40:40.856
+LOADED: Voc. 01: 34/39 card(s)
+
+
+2020-08-13 13:40:40.856
+LOADED: constitute (verb) 142%
+
+
+2020-08-13 13:40:40.856
+LOADED: Voc. 01: 35/39 card(s)
+
+
+2020-08-13 13:40:40.856
+LOADED: crucial (adj.) 143%
+
+
+2020-08-13 13:40:40.856
+LOADED: Voc. 01: 36/39 card(s)
+
+
+2020-08-13 13:40:40.856
+LOADED: cavity (noun) 144%
+
+
+2020-08-13 13:40:40.856
+LOADED: Voc. 01: 37/39 card(s)
+
+
+2020-08-13 13:40:40.856
+LOADED: transient (adj.) 145%
+
+
+2020-08-13 13:40:40.856
+LOADED: Voc. 01: 38/39 card(s)
+
+
+2020-08-13 13:40:40.856
+LOADED: transience (noun) 146%
+
+
+2020-08-13 13:40:40.856
+LOADED: Voc. 01: 39/39 card(s)
+
+
+2020-08-13 13:40:40.856
+LOADED: English: 1/1 topic(s)
+
+
+2020-08-13 13:40:40.856
+LOADED: 1/1 area(s)
+
+
+     <-- AreaHandler
+
+<-- System
+
+--> User
+
+2020-08-13 13:40:40.856
+INFO: Card replaced
+
+
+<-- User
+
+--> System
+
+     --> AreaHandler
+
+2020-08-13 13:40:40.856
+
+SAVED: Voc. 01: 1/39 card(s)
+
+
+2020-08-13 13:40:40.856
+
+SAVED: Voc. 01: 2/39 card(s)
+
+
+2020-08-13 13:40:40.856
+
+SAVED: Voc. 01: 3/39 card(s)
+
+
+2020-08-13 13:40:40.856
+
+SAVED: Voc. 01: 4/39 card(s)
+
+
+2020-08-13 13:40:40.856
+
+SAVED: Voc. 01: 5/39 card(s)
+
+
+2020-08-13 13:40:40.856
+
+SAVED: Voc. 01: 6/39 card(s)
+
+
+2020-08-13 13:40:40.856
+
+SAVED: Voc. 01: 7/39 card(s)
+
+
+2020-08-13 13:40:40.856
+
+SAVED: Voc. 01: 8/39 card(s)
+
+
+2020-08-13 13:40:40.856
+
+SAVED: Voc. 01: 9/39 card(s)
+
+
+2020-08-13 13:40:40.856
+
+SAVED: Voc. 01: 10/39 card(s)
+
+
+2020-08-13 13:40:40.856
+
+SAVED: Voc. 01: 11/39 card(s)
+
+
+2020-08-13 13:40:40.856
+
+SAVED: Voc. 01: 12/39 card(s)
+
+
+2020-08-13 13:40:40.856
+
+SAVED: Voc. 01: 13/39 card(s)
+
+
+2020-08-13 13:40:40.856
+
+SAVED: Voc. 01: 14/39 card(s)
+
+
+2020-08-13 13:40:40.856
+
+SAVED: Voc. 01: 15/39 card(s)
+
+
+2020-08-13 13:40:40.856
+
+SAVED: Voc. 01: 16/39 card(s)
+
+
+2020-08-13 13:40:40.856
+
+SAVED: Voc. 01: 17/39 card(s)
+
+
+2020-08-13 13:40:40.856
+
+SAVED: Voc. 01: 18/39 card(s)
+
+
+2020-08-13 13:40:40.856
+
+SAVED: Voc. 01: 19/39 card(s)
+
+
+2020-08-13 13:40:40.856
+
+SAVED: Voc. 01: 20/39 card(s)
+
+
+2020-08-13 13:40:40.856
+
+SAVED: Voc. 01: 21/39 card(s)
+
+
+2020-08-13 13:40:40.856
+
+SAVED: Voc. 01: 22/39 card(s)
+
+
+2020-08-13 13:40:40.856
+
+SAVED: Voc. 01: 23/39 card(s)
+
+
+2020-08-13 13:40:40.856
+
+SAVED: Voc. 01: 24/39 card(s)
+
+
+2020-08-13 13:40:40.856
+
+SAVED: Voc. 01: 25/39 card(s)
+
+
+2020-08-13 13:40:40.856
+
+SAVED: Voc. 01: 26/39 card(s)
+
+
+2020-08-13 13:40:40.856
+
+SAVED: Voc. 01: 27/39 card(s)
+
+
+2020-08-13 13:40:40.856
+
+SAVED: Voc. 01: 28/39 card(s)
+
+
+2020-08-13 13:40:40.856
+
+SAVED: Voc. 01: 29/39 card(s)
+
+
+2020-08-13 13:40:40.856
+
+SAVED: Voc. 01: 30/39 card(s)
+
+
+2020-08-13 13:40:40.856
+
+SAVED: Voc. 01: 31/39 card(s)
+
+
+2020-08-13 13:40:40.856
+
+SAVED: Voc. 01: 32/39 card(s)
+
+
+2020-08-13 13:40:40.856
+
+SAVED: Voc. 01: 33/39 card(s)
+
+
+2020-08-13 13:40:40.856
+
+SAVED: Voc. 01: 34/39 card(s)
+
+
+2020-08-13 13:40:40.856
+
+SAVED: Voc. 01: 35/39 card(s)
+
+
+2020-08-13 13:40:40.856
+
+SAVED: Voc. 01: 36/39 card(s)
+
+
+2020-08-13 13:40:40.856
+
+SAVED: Voc. 01: 37/39 card(s)
+
+
+2020-08-13 13:40:40.856
+
+SAVED: Voc. 01: 38/39 card(s)
+
+
+2020-08-13 13:40:40.856
+
+SAVED: Voc. 01: 39/39 card(s)
+
+
+2020-08-13 13:40:40.856
+
+SAVED: English: 1/1 topic(s)
+
+
+2020-08-13 13:40:40.856
+
+SAVED: 1/1 area(s)
+
+
+     <-- AreaHandler
+
+     --> Config
+
+2020-08-13 13:40:40.856
+
+SAVED: Config
+
+
+     <-- Config
+
+     --> Log
+
+2020-08-13 13:40:40.856
+INFO: Log stoped
+
+
+     <-- Log
+
+<-- System
